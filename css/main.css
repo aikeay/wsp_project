@@ -6,13 +6,12 @@ Alana Keay
 WSP Project 1
 */
 body{
-    background: #fff;
-    padding: 0 0 20px 0;
+    background-color: #666;
 }
 
 #container{
     position: relative;
-    width: 960px;
+    width: 1280px;
     margin: 0 auto;
     padding: 0 2.0833333333333333%;
     box-sizing: border-box;
@@ -29,8 +28,8 @@ h1{
     font-size: 300%;
     font-style: oblique;
     text-shadow: 2px 2px #888888 ;
-    margin: 10px 10px;
-    padding-bottom: 20px;
+    margin: 10px auto;
+    padding: 20px;
 }
 
 ul{
@@ -57,7 +56,7 @@ a {
 
 #about {
     width: 95%;
-    margin: 10px auto;
+    margin: 20px auto;
     background-color: #FFF1CE;
 }
 
@@ -65,6 +64,7 @@ a {
     color: black;
     font-weight: bold;
     text-align: center;
+    font-size: 25px;
 
 }
 
@@ -73,12 +73,14 @@ a {
     height: 150px;
     border-radius: 50%;
     float: left;
-    margin: 10px 20px;
+    margin: 20px 20px;
 }
 
 #about > p{
-    margin: 10px 30px ;
+    margin: 5px 20px ;
     color: #333333;
+    padding: 5px 20px;
+    font-size: 20px;
 
 }
 /* COMPONENTS SPECIFIC ======================================== */
@@ -90,24 +92,49 @@ a {
 
 #blog > h2{
     font-weight: bold;
+    color: #333333;
     text-align: center;
-    color: #17607D;
-    margin-bottom: 10px;
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 5px 20px;
 }
 
+#blog > p{
+    margin: 5px 20px ;
+    color: #333333;
+    padding: 5px 20px;
+    font-size: 20px;
+}
 .pic{
     width: 98%;
     height: 300px;
+    padding: 5px 20px;
+    margin: 30px auto;
 }
 
 h3{
     font-size: 100%;
     font-style: oblique;
     text-align: center;
-    padding: 20px;
+    margin: 20px auto;
+    padding: 20px auto;
+    color: #17607D;
 }
+input{
+    width: 200px;
+    background-color: #17607D;
+    margin: 10px auto;
+    border-radius: 5px;
+    color: #FFF1CE;
+    text-align: center;
+    float: right;
+    border-top: 2px solid #002A4A;
+}
+
 
 #footer{
     margin: 120px 120px;
     text-align: center;
+    color: aliceblue;
 }
+
