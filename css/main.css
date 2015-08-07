@@ -5,10 +5,20 @@ WSP COMPONENT LIBRARY STYLESHEET
 Alana Keay
 WSP Project 1
 */
-
+body{
+    background-image: url("/images/bonfire.png");
+    
+}
 
 /* HEADER SPECIFIC ======================================== */
 
 /* ABOUT SPECIFIC ======================================== */
+
+#about > img{
+    width: 150px;
+    height: 150px;
+    opacity: 85%;
+    border-radius: 50%;
+}
 
 /* COMPONENTS SPECIFIC ======================================== */
