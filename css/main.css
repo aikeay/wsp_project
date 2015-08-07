@@ -6,7 +6,7 @@ Alana Keay
 WSP Project 1
 */
 body{
-    background-color: #666;
+    background-image: url(../images/look.jpg);
 }
 
 #container{
@@ -15,8 +15,7 @@ body{
     margin: 0 auto;
     padding: 0 2.0833333333333333%;
     box-sizing: border-box;
-    background-color: #002A4A;
-    border-radius: 10px;
+    border-radius: 20px;
     font-family: "Trebuchet MS", Verdana, Sans-Serif;
 }
 
@@ -35,18 +34,20 @@ h1{
 ul{
     list-style-type: none;
     margin: 10px auto;
-    padding: 20px;
     overflow: hidden;
+
+
 }
 
 li {
     float: left;
     clear: right;
+    padding: 30px;
 }
 
 a {
     display: block;
-    width: 130px;
+    width: 100%;
     color: bisque;
 }
 
@@ -57,7 +58,8 @@ a {
 #about {
     width: 95%;
     margin: 20px auto;
-    background-color: #FFF1CE;
+    background-color: gainsboro;
+    border-radius: 10px
 }
 
 #about > h2{
@@ -87,7 +89,8 @@ a {
 #blog{
     width: 95%;
     margin: 10px auto;
-    background-color: #FFF1CE;
+    background-color: gainsboro;
+    border-radius: 10px
 }
 
 #blog > h2{
