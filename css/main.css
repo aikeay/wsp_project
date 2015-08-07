@@ -6,19 +6,108 @@ Alana Keay
 WSP Project 1
 */
 body{
-    background-image: url("/images/bonfire.png");
-    
+    background: #fff;
+    padding: 0 0 20px 0;
+}
+
+#container{
+    position: relative;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0 2.0833333333333333%;
+    box-sizing: border-box;
+    background-color: #002A4A;
+    border-radius: 10px;
+    font-family: "Trebuchet MS", Verdana, Sans-Serif;
 }
 
 /* HEADER SPECIFIC ======================================== */
+h1{
+    font-weight: bold;
+    color: bisque;
+    text-align: center;
+    font-size: 300%;
+    font-style: oblique;
+    text-shadow: 2px 2px #888888 ;
+    margin: 10px 10px;
+    padding-bottom: 20px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10px auto;
+    padding: 20px;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    clear: right;
+}
+
+a {
+    display: block;
+    width: 130px;
+    color: bisque;
+}
+
+
 
 /* ABOUT SPECIFIC ======================================== */
+
+#about {
+    width: 95%;
+    margin: 10px auto;
+    background-color: #FFF1CE;
+}
+
+#about > h2{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+
+}
 
 #about > img{
     width: 150px;
     height: 150px;
-    opacity: 85%;
     border-radius: 50%;
+    float: left;
+    margin: 10px 20px;
 }
 
+#about > p{
+    margin: 10px 30px ;
+    color: #333333;
+
+}
 /* COMPONENTS SPECIFIC ======================================== */
+#blog{
+    width: 95%;
+    margin: 10px auto;
+    background-color: #FFF1CE;
+}
+
+#blog > h2{
+    font-weight: bold;
+    text-align: center;
+    color: #17607D;
+    margin-bottom: 10px;
+}
+
+.pic{
+    width: 98%;
+    height: 300px;
+}
+
+h3{
+    font-size: 100%;
+    font-style: oblique;
+    text-align: center;
+    padding: 20px;
+}
+
+#footer{
+    margin: 120px 120px;
+    text-align: center;
+}
