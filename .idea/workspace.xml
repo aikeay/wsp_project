@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c829fa5a-e6e5-4987-9526-41b8766b855f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/10/component.jpg" afterPath="$PROJECT_DIR$/components/10/component.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/2/component.jpg" afterPath="$PROJECT_DIR$/components/2/component.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/4/component.jpg" afterPath="$PROJECT_DIR$/components/4/component.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/6/component.jpg" afterPath="$PROJECT_DIR$/components/6/component.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/9/component.jpg" afterPath="$PROJECT_DIR$/components/9/component.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c829fa5a-e6e5-4987-9526-41b8766b855f" name="Default" comment="" />
     <ignored path="wsp_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
