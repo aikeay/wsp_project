@@ -3,6 +3,55 @@
 COMPONENT STYLESHEET
 ================================================================================ */
 
-/* HEADER ======================================== */
+/* body ======================================== */
+body{
+    width: 1200px;
+    margin: auto;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* font ======================================== */
+a:link{
+    color: darkblue;
+}
+a:visited{
+    color: black;
+}
+a:hover {
+    color: #333333;
+}
+a:active{
+    color: orangered ;
+}
+em{
+    color: orangered;
+}
 
-/* HEADER ======================================== */
+/* footer ======================================== */
+ul{
+
+    width: 60%;
+}
+li{
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+#copyrights{
+    padding-top: 60px;
+    border-top: 4px solid gainsboro;
+    clear: both;
+}
+
+/* aside ======================================== */
+
+aside{
+    margin: 0px auto;
+    width: 40%;
+    float: right;
+    font-family: "source-code-pro", Consolas, monospace;
+    padding-bottom: 60px;
+}
+
+aside.lastchild.p{
+    font-size: larger;
+}

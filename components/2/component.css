@@ -3,6 +3,40 @@
 COMPONENT STYLESHEET
 ================================================================================ */
 
-/* HEADER ======================================== */
+/* body ======================================== */
+body{
+    background-color: #F5F0E2;
+    margin: 40px;
+}
 
-/* HEADER ======================================== */
+/* Fonts ======================================== */
+h3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #363635;
+}
+
+p{
+    color: #CEB368;
+    font-size: small;
+    margin-bottom: 20px;
+}
+
+/* Images ======================================== */
+
+#sectionicon{
+    width: 100px;
+    height: 50px;
+    float: left;
+    clear: right;
+    border: none;
+    margin-left:10px;
+}
+img{
+
+    margin: 5px;
+    border: 6px solid white;
+    height: 200px;
+    width: 150px;
+    float: left;
+
+}

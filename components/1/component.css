@@ -3,6 +3,67 @@
 COMPONENT STYLESHEET
 ================================================================================ */
 
-/* HEADER ======================================== */
+body{
+    width: 1200px;
+    margin: auto;
+    background-color: #000000;
 
-/* HEADER ======================================== */
+}
+
+/* Font =======212123================================= */
+ h2{
+     font-family: "Lucida Console", Monaco, monospace;
+     font-size: 50px;
+ }
+
+/* section left ======================================== */
+#left{
+    background-image: url('chef.jpg');
+    border-style: double;
+    border-color: #E2E2E2;
+    border-width: 10px;
+    width: 40%;
+    float: left;
+    padding: 120px 20px;
+    text-align: center;
+    color: #F2F2F2;
+    margin: 10px;
+
+
+}
+
+#right{
+    border: 1px double #E2E2E2;
+    width: 40%;
+    display: inline-block;
+    padding: 80px 20px;
+    text-align: center;
+    color: #F2F2F2;
+    margin: 10px;
+
+}
+/* text ======================================== */
+
+p{
+    padding: 10px;
+    font-family: "Lora", "Times New Roman", serif;
+    font-size: 20px;
+    margin: 10px;
+}
+a:link{
+    color: #DDDDDD;
+    border: 1px double #E2E2E2;
+    margin: 20px auto;
+    padding: 10px;
+    font-weight: bold;
+
+}
+a:hover{
+    color: #ffffff;
+}
+a:active{
+    color: #ffffff;
+}
+a:visited{
+    color: #ffffff;
+}
