@@ -2,11 +2,16 @@
 ================================================================================
 COMPONENT STYLESHEET
 ================================================================================ */
+html{
+    background-color: #000000;
+    filter: alpha(opacity=60);
+}
 
 body{
     width: 1200px;
-    margin: auto;
-    background-color: #000000;
+    margin: 10px auto;
+    background-image: url("hero1.jpg");
+    background-repeat: no-repeat;
 
 }
 
