@@ -3,6 +3,11 @@
 COMPONENT STYLESHEET
 ================================================================================ */
 
-/* HEADER ======================================== */
-
+/* body ======================================== */
+header{
+     width: 960px;
+     background-image: url('airplane.jpg');
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+ }
 /* HEADER ======================================== */
