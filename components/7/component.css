@@ -2,7 +2,61 @@
 ================================================================================
 COMPONENT STYLESHEET
 ================================================================================ */
+html{
+    background-color: #8F7C7D;
 
-/* HEADER ======================================== */
+}
+
+body{
+    height: 960px;
+    background-image: url('writer.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+
+}
+/* Nav ======================================== */
+ul {
+    width: 80%;
+    list-style-type: none;
+    margin: 20px auto;
+    padding-bottom: 50px;
+    text-align: right;
+    background-color: #8F7C7D;
+}
+
+li {
+    width: 960px;
+    display: inline;
+    padding: 20px;
+    margin-right: 100px;
+
+}
+
+a {
+    font-family: "source-code-pro", Consolas, monospace;
+    color: #FFFFFF;
+}
+
+aside{
+    width:13%;
+    height:900px;
+    background-color: #5A4E4E;
+    opacity: 0.5;
+    margin-left: 20%;
+    float: left;
+    font-size: 2em;
+    font-family: 'Shentox Medium', sans-serif;
+    color:#ffffff;
+    padding: 10px 10px;
+}
+aside > a{
+    color: #ffffff;
+    font-weight: bold;
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    margin: 20px auto;
+    text-align: center;
+}
 
 /* HEADER ======================================== */

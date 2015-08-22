@@ -2,7 +2,49 @@
 ================================================================================
 COMPONENT STYLESHEET
 ================================================================================ */
+html{
+    font-size: 63.5%;
+}
+/* body ======================================== */
+body{
+    font: 400 1.6em/1.4 sans-serif;
+    margin: auto;
+}
 
-/* HEADER ======================================== */
+/* font ======================================== */
+h2{
+    font-size: 2rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+h3{
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: left;  }
+/* images ======================================== */
 
-/* HEADER ======================================== */
+img{
+    width: 75%;
+    height: 75%;
+
+}
+/* section ======================================== */
+header, section, footer{
+    width: 960px;
+    margin: 0 auto;
+
+}
+
+section{
+    width: 25%;
+    float: left;
+    text-align: left;
+    margin-bottom: 0.9em;
+    padding: 0.1em;
+    border: double red;
+
+}

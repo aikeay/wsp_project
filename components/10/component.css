@@ -45,7 +45,7 @@ li{
 /* aside ======================================== */
 
 aside{
-    margin: 0px auto;
+    margin: -120px auto;
     width: 40%;
     float: right;
     font-family: "source-code-pro", Consolas, monospace;
@@ -54,4 +54,11 @@ aside{
 
 aside.lastchild.p{
     font-size: larger;
+}
+
+h4{
+    padding: 10px;
+}
+p{
+    padding: 10px;
 }
