@@ -2,7 +2,120 @@
 ================================================================================
 COMPONENT STYLESHEET
 ================================================================================ */
-
+body{
+    width: 960px;
+    margin: 10px auto;
+}
 /* HEADER ======================================== */
 
-/* HEADER ======================================== */
+/* images ======================================== */
+
+/* member login ======================================== */
+#memberLogin {
+    width: 100%;
+    list-style-type: none;
+    margin: 10px auto;
+    padding-bottom: 20px;
+    text-align: right;
+}
+
+#memberLogin > li {
+    width: 960px;
+    display: inline;
+}
+
+
+header >p{
+    float: right;
+    color: dodgerblue;
+}
+header a{
+    color: dodgerblue;
+}
+header{
+    margin-bottom: 100px;
+}
+/* form ======================================== */
+form{
+    text-align: right;
+
+}
+/* aside ======================================== */
+aside{
+    width: 200px;
+    border: 2px none;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 2em 2em 0em 0em;
+    float: left;
+    text-align: center;
+
+}
+
+/*  nav ======================================== */
+
+nav ul {
+    list-style-type: none;
+    margin: 20px auto;
+    padding-bottom: 50px;
+    text-align: right;
+}
+
+nav ul li {
+    width: 960px;
+    display: inline;
+    padding: 5px;
+
+}
+nav ul li:nth-child(1){
+    width: 300px;
+    border: 2px none;
+    padding: 20px;
+    background-color: purple;
+    border-radius: 2em 2em 0em 0em;
+
+}
+nav ul li:nth-child(2){
+    width: 300px;
+    border: 2px none;
+    padding: 20px;
+    background-color: gold;
+    border-radius: 2em 2em 0em 0em;
+
+}
+nav ul li:nth-child(3){
+    width: 300px;
+    border: 2px none;
+    padding: 20px;
+    background-color: red;
+    border-radius: 2em 2em 0em 0em;
+
+}
+nav ul li:nth-child(4){
+    width: 300px;
+    border: 2px none;
+    padding: 20px;
+    background-color: #008000;
+    border-radius: 2em 2em 0em 0em;
+
+}
+nav ul li:nth-child(5){
+    width: 300px;
+    border: 2px none;
+    padding: 20px;
+    background-color: blue;
+    border-radius: 2em 2em 0em 0em;
+
+}
+nav ul li:nth-child(6){
+    width: 300px;
+    border: 2px none;
+    padding: 20px;
+    background-color: orangered;
+    border-radius: 2em 2em 0em 0em;
+
+}
+
+nav ul li a{
+    color: #ffffff;
+}

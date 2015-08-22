@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c829fa5a-e6e5-4987-9526-41b8766b855f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/10/component.css" afterPath="$PROJECT_DIR$/components/10/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/6/component.css" afterPath="$PROJECT_DIR$/components/6/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/7/component.css" afterPath="$PROJECT_DIR$/components/7/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/8/component.css" afterPath="$PROJECT_DIR$/components/8/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/9/component.css" afterPath="$PROJECT_DIR$/components/9/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/6/component.html" afterPath="$PROJECT_DIR$/components/6/component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/7/component.html" afterPath="$PROJECT_DIR$/components/7/component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/8/component.html" afterPath="$PROJECT_DIR$/components/8/component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/9/component.html" afterPath="$PROJECT_DIR$/components/9/component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/3/component.css" afterPath="$PROJECT_DIR$/components/3/component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/3/component.html" afterPath="$PROJECT_DIR$/components/3/component.html" />
     </list>
     <ignored path="wsp_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,9 +42,11 @@
       <file leaf-file-name="component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/3/component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.041666" vertical-offset="29" max-vertical-offset="705">
-              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="735">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,9 +54,11 @@
       <file leaf-file-name="component.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/3/component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="1.2428571" vertical-offset="0" max-vertical-offset="1860">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="e#2202#2225#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,7 +73,6 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/components/3/component.html" />
         <option value="$PROJECT_DIR$/components/2/component.html" />
         <option value="$PROJECT_DIR$/components/10/component.html" />
         <option value="$PROJECT_DIR$/components/1/component.html" />
@@ -95,6 +91,8 @@
         <option value="$PROJECT_DIR$/components/9/component.css" />
         <option value="$PROJECT_DIR$/components/8/component.html" />
         <option value="$PROJECT_DIR$/components/8/component.css" />
+        <option value="$PROJECT_DIR$/components/3/component.html" />
+        <option value="$PROJECT_DIR$/components/3/component.css" />
       </list>
     </option>
   </component>
@@ -102,8 +100,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="712" />
-    <option name="y" value="48" />
+    <option name="x" value="145" />
+    <option name="y" value="333" />
     <option name="width" value="1167" />
     <option name="height" value="447" />
   </component>
@@ -181,6 +179,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsp_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsp_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsp_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsp_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,7 +350,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="712" y="48" width="1167" height="447" extended-state="0" />
+    <frame x="145" y="333" width="1167" height="447" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -622,14 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/7/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5285714" vertical-offset="655" max-vertical-offset="1005">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/7/component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0582823" vertical-offset="45" max-vertical-offset="555">
@@ -719,19 +745,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/components/7/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7714286" vertical-offset="10" max-vertical-offset="1005">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/3/component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.041666" vertical-offset="29" max-vertical-offset="705">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="735">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/3/component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="1.2428571" vertical-offset="0" max-vertical-offset="1860">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#2202#2225#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
