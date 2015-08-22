@@ -4,10 +4,25 @@ COMPONENT STYLESHEET
 ================================================================================ */
 
 /* body ======================================== */
+body{
+    width: 960px;
+    margin: 10px auto;
+}
+/* HEADER ======================================== */
 header{
-     width: 960px;
+     width: 100%;
      background-image: url('airplane.jpg');
      background-size: 100% 100%;
      background-repeat: no-repeat;
+     margin: 10px auto;
  }
-/* HEADER ======================================== */
+/* image ======================================== */
+header > img{
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+header:nth-child(1){
+
+}
