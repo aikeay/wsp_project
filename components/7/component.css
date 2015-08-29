@@ -17,7 +17,7 @@ body{
 }
 /* Nav ======================================== */
 ul {
-    width: 80%;
+    width: 100%;
     list-style-type: none;
     margin: 20px auto;
     padding-bottom: 50px;
@@ -26,9 +26,8 @@ ul {
 }
 
 li {
-    width: 960px;
     display: inline;
-    padding: 20px;
+    padding: 10px;
     margin-right: 100px;
 
 }
@@ -37,7 +36,7 @@ a {
     font-family: "source-code-pro", Consolas, monospace;
     color: #FFFFFF;
 }
-
+/* Sidebar ======================================== */
 aside{
     width:13%;
     height:900px;
@@ -45,18 +44,29 @@ aside{
     opacity: 0.5;
     margin-left: 20%;
     float: left;
-    font-size: 2em;
     font-family: 'Shentox Medium', sans-serif;
     color:#ffffff;
-    padding: 10px 10px;
+    padding: 20px 20px;
+    line-height:300%;
+
 }
+
 aside > a{
     color: #ffffff;
-    font-weight: bold;
     border: 1px solid whitesmoke;
-    padding: 10px;
+    padding: 10px 70px;
     margin: 20px auto;
     text-align: center;
 }
+h1 {
+    font-size: 2em;
 
-/* HEADER ======================================== */
+}
+
+h3{
+    font-size: 1em;
+}
+
+h5{
+    font-size: .8em;
+}

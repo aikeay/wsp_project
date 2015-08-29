@@ -9,11 +9,10 @@ body{
     background-image: url(../images/look.jpg);
 }
 
-#container{
+section {
     position: relative;
     width: 1280px;
-    margin: 0 auto;
-    padding: 0 2.0833333333333333%;
+    margin: 10px auto;
     box-sizing: border-box;
     border-radius: 20px;
     font-family: "Trebuchet MS", Verdana, Sans-Serif;
@@ -25,6 +24,17 @@ h1{
     color: bisque;
     text-align: center;
     font-size: 300%;
+    font-style: oblique;
+    text-shadow: 2px 2px #888888 ;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+h2{
+    font-weight: bold;
+    color: bisque;
+    text-align: center;
+    font-size: 200%;
     font-style: oblique;
     text-shadow: 2px 2px #888888 ;
     margin: 10px auto;
@@ -55,22 +65,21 @@ a {
 
 /* ABOUT SPECIFIC ======================================== */
 
-#about {
+article{
     width: 95%;
-    margin: 20px auto;
+    margin: 10px auto;
     background-color: gainsboro;
     border-radius: 10px
 }
 
-#about > h2{
+article > h2{
     color: black;
     font-weight: bold;
     text-align: center;
     font-size: 25px;
 
 }
-
-#about > img{
+ article > img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -78,22 +87,23 @@ a {
     margin: 20px 20px;
 }
 
-#about > p{
-    margin: 5px 20px ;
+article > p{
+    margin: 10px 20px ;
     color: #333333;
-    padding: 5px 20px;
+    padding: 10px 20px;
     font-size: 20px;
+
 
 }
 /* COMPONENTS SPECIFIC ======================================== */
-#blog{
+section section section{
     width: 95%;
     margin: 10px auto;
     background-color: gainsboro;
     border-radius: 10px
 }
 
-#blog > h2{
+section section section> h2{
     font-weight: bold;
     color: #333333;
     text-align: center;
@@ -102,13 +112,13 @@ a {
     padding: 5px 20px;
 }
 
-#blog > p{
+section section section > p{
     margin: 5px 20px ;
     color: #333333;
     padding: 5px 20px;
     font-size: 20px;
 }
-.pic{
+section section section img{
     width: 98%;
     height: 300px;
     padding: 5px 20px;
@@ -134,14 +144,25 @@ input{
     border-top: 2px solid #002A4A;
 }
 
-
-#footer{
+footer{
     margin: 120px 120px;
     text-align: center;
     color: aliceblue;
 }
 
-button{
+section section section a{
+    display: block;
     background-color: #17607D;
-    
+    margin: 20px auto;
+    padding: 20px;
+
+}
+
+section > a{
+    display: block;
+    background-color: #17607D;
+    margin: 20px auto;
+    padding: 10px 100px;
+    text-align: center;
+
 }
