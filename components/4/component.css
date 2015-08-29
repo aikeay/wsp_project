@@ -11,18 +11,40 @@ body{
 /* HEADER ======================================== */
 header{
      width: 100%;
+     height: 300px;
      background-image: url('airplane.jpg');
-     background-size: 100% 100%;
      background-repeat: no-repeat;
      margin: 10px auto;
- }
-/* image ======================================== */
-header > img{
-    width: 25px;
-    height: 25px;
+     display: block;
+     color: #e1f1f9;
+     float: left;
+}
+section{
+    width: 320px;
     float: left;
 }
-
-header:nth-child(1){
-
+img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px 20px;
+    background-color: chartreuse;
+}
+p{
+    text-align: center;
+    font-size: 100%;
+    margin-top: 30px;
+}
+h1{
+    font-size: 200%;
+    margin: 0px 20px;
+    margin-top: 30px;
+}
+h3{
+    font-size: 150%;
+    margin: 0px 20px;
+}
+strong{
+    color: chartreuse;
+    font-size: 100%;
 }

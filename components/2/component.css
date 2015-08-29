@@ -31,10 +31,9 @@ p{
     float: left;
     clear: right;
     border: none;
-    margin-left:10px;
+    margin-left: 20px;
 }
 img{
-
     margin: 5px;
     border: 6px solid white;
     height: 200px;
